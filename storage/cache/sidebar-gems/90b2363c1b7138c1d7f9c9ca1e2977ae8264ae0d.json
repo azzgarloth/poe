@@ -1,0 +1,17 @@
+{
+    "cachedAt": "2026-04-07T10:31:29+00:00",
+    "value": {
+        "league": "Mirage",
+        "searchStatus": "securable",
+        "filters": {
+            "category": "skill-gem",
+            "minLevel": 20,
+            "minQuality": 20,
+            "corrupted": "no",
+            "maxPriceChaos": 3
+        },
+        "count": 0,
+        "items": [],
+        "generatedAt": "2026-04-07T10:31:29+00:00"
+    }
+}
