@@ -1,0 +1,2 @@
+-- No local database schema is required for this project.
+-- gemEval is a read-only local app that queries the official Path of Exile trade API.
